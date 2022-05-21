@@ -1,0 +1,3 @@
+alert("Ola mundo! :D");
+var nomeDaUsuaria = prompt('Me chamo Renata, qual o seu nome?');
+alert("Seja bem vinda ao meu primeiro programa" + nomeDaUsuaria);
